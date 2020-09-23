@@ -1,0 +1,17 @@
+Purpose:
+Format groups of comments into neat looking comment boxes.
+
+I cheat!  One comment that I frequently get regarding my programs is "How nicely they are Commented and Formatted".  Well, I cheat!  And now I'm going to show you how so you can have nice looking programs that are easy to read.
+
+Are you constantly re-writing comments in your VB code?  I know I am!  PSC is a fantastic VB resource but many of the comments that I see in source code are hard to read due to the way that they are formated.  That's one reason why I wrote Formatter.
+
+Formatter uses your text to build Professional looking Comment Boxes to paste into your Visual Basic programs.  You may also input a Text file, if you want.  Formatter can be used to reformat any text that you want.  It makes the source code much easier to read and debug.  It will also aid you in making all of your programs look consistent.  It is heavily commented and should be easy to modify to suit your own personal tastes.
+
+Inputs:
+Enter any text that you want.  You may cut & paste text from your current programs if you wish.  The program will insert the tick marks(') for you, so you don't need to worry about that.
+
+Returns:
+You end up with neater looking source code.
+
+Side Effects:
+None.
